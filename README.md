@@ -5,4 +5,4 @@
 
 # Tool
   
-  I'll suggest to use pycharm IDE for this code to make text file easily insted of creating it and making code to read it.
+  I'll suggest to use pycharm IDE(https://www.jetbrains.com/pycharm/download/#section=windows)for this code to make text file easily insted of creating it and making code to read it.
