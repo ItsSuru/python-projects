@@ -9,5 +9,8 @@
   If you want to run it into Jupyter nb., then try this following command : 
   
   $ pip install ipyturtle 
+  
   $ jupyter nbextension enable --py --sys-prefix ipyturtle
+  
   (Execute both command)
+  
