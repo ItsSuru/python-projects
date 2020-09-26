@@ -12,8 +12,8 @@ If you cant figure it out you will get 4 more chance.
 
 (1) If your word's char matches with the position of the word which you are 
     guessing then it will give you an hint.
-Now you have 3 more chances to guess the word, if again you will wrong 
+Now you have 3 more chances to guess the word, if again you are wrong 
 step (1) will get repeated till the last chance.
-If still you couldn't manage to find word you'll lose.
+If still you can't manage to find the word you'll lose.
 
-If you'll guess it correctly you'll win.
+If you guessed it correctly you'll win.
