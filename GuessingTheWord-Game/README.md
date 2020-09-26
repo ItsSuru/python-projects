@@ -7,7 +7,7 @@ I made this in python,
 Used 'pycharm' IDE to make this.
 
 Its a simple guessing game where you have to guess the word, hints will be given if you failed to do so.
-If you guessed the perfect word you'll win.
+If you guessed the correct word you'll win.
 
 ## How it Works
 
