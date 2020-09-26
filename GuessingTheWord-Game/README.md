@@ -9,6 +9,7 @@ If you guessed the perfect word you'll win.
 
 In this game you have to guess the word on the base of how many "-" are there 
 If you cant figure it out you will get 4 more chance. 
+
 (1) If your word's char matches with the position of the word which you are 
     guessing then it will give you an hint.
 Now you have 3 more chances to guess the word, if again you will wrong 
